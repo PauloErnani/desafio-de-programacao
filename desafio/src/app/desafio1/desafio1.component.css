@@ -1,0 +1,22 @@
+body{
+  background-color: #D0CBF3;
+}
+
+.caixa{
+  display:flex;
+  justify-content: baselinea;
+  gap: 10px;
+}
+.caixa .btn{
+  background-color: rgb(14, 222, 230);
+
+}
+
+.btn{
+  background-color: blue;
+  color: wheat;
+}
+
+.caixa .btn:hover, .btn:hover{
+  background-color: black;
+}
